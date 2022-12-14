@@ -16,3 +16,9 @@
     <script src="../js/script.js" defer></script>
 </head>
 <body>
+
+<div class="container">
+    <div class="row">
+        <div class="col">Header</div>
+    </div>
+</div>
